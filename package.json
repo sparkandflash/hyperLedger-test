@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aries-framework/askar": "^0.4.0",
+    "@aries-framework/core": "^0.4.0",
+    "@aries-framework/node": "^0.4.0",
+    "@hyperledger/aries-askar-nodejs": "^0.1.0"
+  },
+  "type": "module"
+}
